@@ -42,3 +42,7 @@ WebSocket events: `task.created`, `task.updated`, `task.deleted`.
 server/   Express + ws + zod (src/, test/)
 client/   React + Vite (src/components, hooks, api client)
 ```
+
+## Development history
+
+This project was developed locally between 2025-11-25 and 2025-12-13. The commit history was created afterwards, and the commit dates were adjusted to match the period in which the work was actually done.
